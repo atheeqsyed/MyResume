@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Client Management Booking System (CABS)",
+    "desc": "CABS is a web application, & it stores exact information related to clients & booking the time slots to a\nDescription\nsolicitor & client. Built using ASP .Net, MSSQL, HTML, CSS, JQuery, BootstrapSSSSSSS",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Electronic Queue Management Systems(AIIMS, Safdarjang",
+    "desc": "Register the patient details & generating the online appointment for the patient. Built using ASP .Net C#, MSSQL, HTML, CSS, JS and Bootstrap.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Qantas Freight",
+    "desc": "Register the patient details & generating the online appointment for the patient. Built using ASP .Net C#, MSSQL, HTML, CSS, JS and Bootstrap.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Visitor Management System",
+    "desc": "WMS Is web application. Built using ASP .Net C#, MSSQL, HTML, CSS, JS and Bootstrap",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+
+  {
+    "name": "DPLF",
+    "desc": "Web News Portal & online member registration System. Built using ASP .Net C#, HTML , CSS , JS and Bootstrap",
+    "image": "dplf",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Greeni Air Website (Canada)",
+    "desc": "Advertise the product and service.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Highway traffic management systems",
+    "desc": "HTMS (irb, ttpl, metro infrasys))is a real time system for informing the users of the road, traffic, and weather conditions on the\nproject. Built using ASP .Net C#, HTML, CSS , JS , Bootstrap and .Net webforms",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Maintenance Management Systems.",
+    "desc": "The project-based on the hardware monitoring system and hardware maintenance system. built on the ASP .Net C#.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Self-Check-in Kiosk System (Tyack Health – Australia)",
+    "desc": "Self-Check-in Kiosk web application allows patients to check in via a Kiosk machine And gets the\nappointment and queue number..",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "Compliance and Argument Management Systems - (Godrej– Sri Lanka).",
+    "desc": "Documentary Management System.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Illegal Parking System (IPS), Electronic Display System (EDS), Monetary Authority of Singapore",
+    "desc": "IPS makes it simpler for users to track the currently in. the (IPS) Illegal Vehicle parking or No Parking\nArea, Offence on the Cases report in real-time. EDS is to make it simpler for users to track the current\nin the EDS Display in real-time, and display the total number of Online, Offline and fault status on the\nLED/LCD Arrival and Departure. MAS is to make it simpler for users to track the number of people\ncurrently in the MAS building in real-time, display the total number of people by department, and\nadjust the Entrance current limit and Threshold limit via a graphical user interface..",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/jigar-sable/web-ui-clones",
+      "code": "https://github.com/jigar-sable/web-ui-clones"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+
+]
