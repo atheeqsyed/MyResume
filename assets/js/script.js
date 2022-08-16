@@ -149,6 +149,11 @@ fetchData().then(data => {
 fetchData("projects").then(data => {
     showProjects(data);
 });
+getDataFromMysql("frommysql");//calling from function
+
+function getDataFromMysql(){
+    console.log('i am custom');//definding function
+};
 
 // <!-- tilt js effect starts -->
 VanillaTilt.init(document.querySelectorAll(".tilt"), {
