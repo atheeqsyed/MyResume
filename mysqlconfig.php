@@ -1,39 +1,25 @@
 <?php
 
-Class Database
+class MysqlConfig
 {
-    public $host ;
-    public $uname;
-    public $pwd;
-    public $dbname;
 
-    public $connString;
+    public $connection;
 
-    public function OpenCon()
+    public function __construct()
     {
         $host = "localhost";
         $uname = "root";
         $pwd = "A@#345_abcd1";
         $dbname = "Protofolio";
-        $conn = new mysqli($host, $uname, $pwd,$dbname) or die("Connect failed: %s\n". $conn -> error);
-        return $conn;
-     /*   $conn = OpenCon();
-        echo "Connected Successfully";
-        CloseCon($conn);*/
+       
+        $this->connection = new mysqli($host, $uname, $pwd, $dbname) or die("Connect failed: %s\n");
     }
 
-    function CloseCon($conn)
+    function getTableData($tableName)
     {
-        $conn -> close();
-    }
-
-    function select($tableName)
-    {
-        $this->sqlQuery = 'SELECT * FROM ' . $this->dbname . '.' . $tableName;
-        $this->dataSet = mysqli_query($this->sqlQuery, $this->connString);
-        return $this->dataSet;
-
+        $this->sqlQuery = 'SELECT * FROM ' . $tableName;
+        $dataSet = mysqli_query( $this->connection,$this->sqlQuery);
+        $res= mysqli_fetch_assoc($dataSet);
+        return $res;
     }
 }
-
-
