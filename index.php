@@ -66,7 +66,7 @@ function getPhpData()
     </div>
 
 </section>
-<!-- hero section ends -->
+<!-- section ends -->
 
 <!-- about section starts -->
 <section class="about" id="about">
@@ -291,7 +291,6 @@ function getPhpData()
 
 <!-- footer section starts -->
 <section class="footer">
-
     <div class="box-container">
 
         <div class="box">
