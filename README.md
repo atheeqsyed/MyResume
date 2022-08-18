@@ -1,3 +1,3 @@
-My Resume Application
+**My Resume Application**
 
-Email Id: atheeqmvj@gmail.com
+**Email Id:** atheeqmvj@gmail.com
