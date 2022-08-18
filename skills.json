@@ -21,7 +21,6 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
 
-
     {
         "name": "PHP",
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
@@ -76,5 +75,10 @@
     {
         "name": "C#.Net",
         "icon": "https://img.icons8.com/color/48/000000/c#.png"
+    },
+    {
+        "name": "Netwoking",
+        "icon": "https://img.icons8.com/color/48/000000/network.png"
     }
+    
 ]
