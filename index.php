@@ -42,7 +42,7 @@ function getPhpData()
         </ul>
     </nav>
 </header>
-<!-- navbar ends -->
+<!-- navbar ends-->
 
 <!-- section starts -->
 <section class="home" id="home">
