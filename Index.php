@@ -54,7 +54,7 @@
     </div>
 
 </section>
-<!-- hero section ends -->
+<!-- hero section ends here -->
 
 <!-- about section starts -->
 <section class="about" id="about">
