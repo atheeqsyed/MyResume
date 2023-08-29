@@ -52,7 +52,6 @@
             </ul>
         </div>
     </div>
-
 </section>
 <!-- hero section ends here -->
 
