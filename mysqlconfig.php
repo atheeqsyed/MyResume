@@ -1,5 +1,5 @@
 <?php
-// Mysql config
+// Mysql configuration
 class MysqlConfig
 {
     public $connection;
